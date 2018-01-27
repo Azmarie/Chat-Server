@@ -48,6 +48,10 @@ button {
   padding: 5px 10px;
   text-transform: uppercase;
 }
+button:hover {
+    background-color: darkblue;
+    font-size: 18px;
+}
 
 input {
   border: none;
@@ -57,7 +61,7 @@ input {
 }
 
 #initials {
-  width: 40px;
+  width: 50px;
 }
 
 #message {
